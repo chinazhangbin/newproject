@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kyj-account/kyj-account.iml" filepath="$PROJECT_DIR$/kyj-account/kyj-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-account-api/kyj-account-api.iml" filepath="$PROJECT_DIR$/kyj-account-api/kyj-account-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-account-provider/kyj-account-provider.iml" filepath="$PROJECT_DIR$/kyj-account-provider/kyj-account-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-common/kyj-common.iml" filepath="$PROJECT_DIR$/kyj-common/kyj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-domain/kyj-domain.iml" filepath="$PROJECT_DIR$/kyj-domain/kyj-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-inferface/kyj-inferface.iml" filepath="$PROJECT_DIR$/kyj-inferface/kyj-inferface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-parent.iml" filepath="$PROJECT_DIR$/kyj-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-service/kyj-service.iml" filepath="$PROJECT_DIR$/kyj-service/kyj-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-service-test/kyj-service-test.iml" filepath="$PROJECT_DIR$/kyj-service-test/kyj-service-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-user/kyj-user.iml" filepath="$PROJECT_DIR$/kyj-user/kyj-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kyj-web/kyj-web.iml" filepath="$PROJECT_DIR$/kyj-web/kyj-web.iml" />
+    </modules>
+  </component>
+</project>
